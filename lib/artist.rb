@@ -22,7 +22,8 @@ class Artist
   end 
   
   def genres 
-    Song
+    songs.map
+   
   
   
 end
