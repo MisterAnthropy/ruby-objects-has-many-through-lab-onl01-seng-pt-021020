@@ -12,6 +12,7 @@ class Genre
   end
   
   def new_song
+    Song.new()
     
   
 end
