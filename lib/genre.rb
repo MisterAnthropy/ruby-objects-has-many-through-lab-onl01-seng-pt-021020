@@ -11,8 +11,6 @@ class Genre
     @@all
   end
   
-  def new_song
-    Song.new()
     
   
 end
